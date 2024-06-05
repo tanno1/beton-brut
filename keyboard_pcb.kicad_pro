@@ -482,7 +482,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
-      "svg": "",
+      "svg": "images/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -587,8 +587,8 @@
   },
   "sheets": [
     [
-      "1a53f355-d6b0-411e-aad5-046f458edfb4",
-      "Root"
+      "ea82db69-3d07-40b9-906e-fe0af56a115e",
+      ""
     ]
   ],
   "text_variables": {}
