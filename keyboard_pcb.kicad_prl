@@ -42,7 +42,6 @@
       13,
       15,
       16,
-      17,
       18,
       19,
       20,
@@ -65,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "7ffffff_ffffffff",
+    "visible_layers": "fffffdf_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
