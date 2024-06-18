@@ -1,0 +1,6 @@
+Info: Front (top side) placement file: '/home/tanno/Desktop/proj/beton-brut/positon/keyboard_pcb-top-pos.csv'.
+Info: Component count: 0.
+Info: Back (bottom side) placement file: '/home/tanno/Desktop/proj/beton-brut/positon/keyboard_pcb-bottom-pos.csv'.
+Info: Component count: 97.
+Info: Full component count: 97.
+Info: File generation successful.
