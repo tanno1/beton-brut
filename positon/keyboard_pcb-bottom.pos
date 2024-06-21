@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-06-13T00:29:38-0700 ###
+### Footprint positions - created on 2024-06-20T11:33:47-0700 ###
 ### Printed by KiCad version 8.0.2
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -86,15 +86,15 @@ D64       D_Small                      D_SOD-123                                
 D65       D_Small                      D_SOD-123                                  341.3665  -173.8916   90.0000  bottom
 D66       D_Small                      D_SOD-123                                  360.4165  -173.8916   90.0000  bottom
 J1        USB_C_Receptacle_USB2.0_14P  USB_C_Receptacle_HRO_TYPE-C-31-M-12        343.3052   -90.8041    0.0000  bottom
-R1        5.1k                         R_01005_0402Metric                         341.1165   -97.3104  180.0000  bottom
-R2        5.1k                         R_01005_0402Metric                         345.8665   -97.0604    0.0000  bottom
-R3        27.4                         R_01005_0402Metric                         344.3665   -97.1913   90.0000  bottom
-R4        1k                           R_01005_0402Metric                         354.0272  -139.0104  180.0000  bottom
-R5        27.4                         R_01005_0402Metric                         343.1165   -97.1947   90.0000  bottom
-R6        10k                          R_01005_0402Metric                         341.0915  -130.0604  180.0000  bottom
-R7        1k                           R_01005_0402Metric                         343.1165  -104.5604  180.0000  bottom
-R8        10k                          R_01005_0402Metric                         339.8665  -132.6604  180.0000  bottom
-SW1       SW_Push                      SW_PUSH_6mm                                350.8665  -132.0604  180.0000  bottom
+R1        5.1k                         R_0402_1005Metric                          340.8000   -97.3104  180.0000  bottom
+R2        5.1k                         R_0402_1005Metric                          346.0000   -97.0604    0.0000  bottom
+R3        27.4                         R_0402_1005Metric                          344.3665   -97.1913   90.0000  bottom
+R4        1k                           R_0402_1005Metric                          354.0272  -139.0104  180.0000  bottom
+R5        27.4                         R_0402_1005Metric                          343.1165   -97.1947   90.0000  bottom
+R6        10k                          R_0402_1005Metric                          341.0915  -130.0604  180.0000  bottom
+R7        1k                           R_0402_1005Metric                          342.8000  -104.7750  180.0000  bottom
+R8        10k                          R_0402_1005Metric                          339.4000  -132.6000  180.0000  bottom
+SW1       SW_Push                      SW_PUSH_6mm                                350.8375  -131.8937  180.0000  bottom
 SW2       SW_Push                      SW_PUSH_6mm                                364.8665  -132.0104  180.0000  bottom
 U1        NCP1117-3.3_SOT223           SOT-223-3_TabPin2                          333.3665   -94.3104  -90.0000  bottom
 U2        W25Q128JVS                   SOIC-8_5.23x5.23mm_P1.27mm                 340.6665  -122.3104  -90.0000  bottom

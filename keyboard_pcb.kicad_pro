@@ -481,7 +481,7 @@
       "plot": "gerbers/",
       "pos_files": "positon",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keyboard_pcb.step",
       "svg": "images/",
       "vrml": ""
     },
