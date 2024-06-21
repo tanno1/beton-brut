@@ -13258,7 +13258,7 @@
 		(dnp no)
 		(uuid "57e69873-8161-4fe6-9dcf-cefb10282e6c")
 		(property "Reference" "C14"
-			(at 179.324 283.21 0)
+			(at 176.53 282.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13266,8 +13266,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 179.324 285.75 0)
+		(property "Value" "100n"
+			(at 176.022 285.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
